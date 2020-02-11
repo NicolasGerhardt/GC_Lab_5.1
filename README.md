@@ -1,1 +1,4 @@
-# GC_Lab_5.1
+# Grand Circus Lab 5.1 RPG
+## Task
+
+## Build Specifications

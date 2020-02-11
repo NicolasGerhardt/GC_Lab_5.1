@@ -21,7 +21,7 @@ namespace GC_Lab_5._1
             this.intelligence = intelligence;
         }
 
-        public virtual void Play() { }
+        public virtual void Play() { Console.WriteLine("ERROR: not implimented"); }
 
         public override string ToString()
         {
